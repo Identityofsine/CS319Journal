@@ -1,4 +1,4 @@
-#DriverPass Project
+# DriverPass Project
 
 ## Summary
 
@@ -12,9 +12,9 @@ They wanted me to design a web-application that would run on the cloud that woul
 
 > What did you do particularly well?
 
-I believe I have met the requirements of the project adequately and have designed systems that seem to acheive the desired functionality. I have used a combination of various UML diagrams, and skills I learned through the course in-terms of the Software Development Life Cycle, to design the system. 
+I believe I have met the requirements of the project adequately and have designed systems that seem to achieve the desired functionality. I have used a combination of various UML diagrams, and skills I learned through the course in-terms of the Software Development Life Cycle, to design the system. 
 
-I believe the best part of my project is the use of all my UML Diagrams, I believe they are well designed and provide a good understanding of the system. I carefully thought out the system, the users, and the various purposes, and designed robust and releastic diagrams to represent the system.
+I believe the best part of my project is the use of all my UML Diagrams, I believe they are well designed and provide a good understanding of the system. I carefully thought out the system, the users, and the various purposes, and designed robust and realistic diagrams to represent the system.
 
 ## Self-Assessment
 
@@ -26,4 +26,11 @@ If I could choose one part of my work to revise, I would choose to revise the us
 
 > How did you interpret the user’s needs and implement them into your system design? Why is it so important to consider the user’s needs when designing?
 
-I interpreted the user's needs by researching and thinking about who the user is and what they would want to do with the system. I then designed the system to meet those needs. It is important to consider the user's needs when designing because the system is designed to be used by the user, and if the system does not meet the user's needs, then the system is not useful. This is usually the falling point of many systems, they are designed without the user in mind, and thus are disfunctional, fustrating, and not used.
+I interpreted the user's needs by researching and thinking about who the user is and what they would want to do with the system. I then designed the system to meet those needs. It is important to consider the user's needs when designing because the system is designed to be used by the user, and if the system does not meet the user's needs, then the system is not useful. This is usually the falling point of many systems, they are designed without the user in mind, and thus are dysfunctional, frustrating, and not used.
+
+## Approaches
+
+> How do you approach designing software? What techniques or strategies would you use in the future to analyze and design a system?
+
+I approach designing software now by first understanding the purpose and needs of the system. In the future, and even now, I get to know the user and who the software is intended to serve. How many sub-systems are present and how many actors are expected. I then design the system using UML diagrams, I would start with just a class diagram and then work around that. 
+
